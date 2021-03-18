@@ -1,6 +1,6 @@
 {
     "name": "tooshay/laravel-model-search",
-    "description": "Handy macro for sarching text through related models.",
+    "description": "Handy macro for searching text through related models.",
     "keywords": [
         "tooshay",
         "laravel-model-search"
