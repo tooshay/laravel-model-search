@@ -35,6 +35,8 @@ class ModelSearchServiceProvider extends PackageServiceProvider
 
             return $this;
         });
+
+        return $this;
     }
 
     public function configurePackage(Package $package): void
