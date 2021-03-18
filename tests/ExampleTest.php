@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Tooshay\ModelSearch\Tests;
 
 class ExampleTest extends TestCase
 {

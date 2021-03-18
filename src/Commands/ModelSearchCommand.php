@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace Tooshay\ModelSearch\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ModelSearchCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-model-search';
 
     public $description = 'My command';
 
